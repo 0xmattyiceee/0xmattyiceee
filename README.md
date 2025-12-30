@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Environment-MacBook_Air-blue?style=for-the-badge&logo=apple" />
   <img src="https://img.shields.io/badge/Workflow-AI_Hybrid-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Advocacy-Mental_Health-9cf?style=for-the-badge&logo=target" />
 </p>
 
 ---
